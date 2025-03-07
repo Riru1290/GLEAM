@@ -1,0 +1,12 @@
+#pragma once
+
+/// @brief ÉåÉìÉ_ÉâÅ[ID
+enum class RENDERER_ID
+{
+	MODEL,
+	ANIMATION_MODEL,
+	SPHERE_INSTANCING,
+	BOX_INSTANCING,
+	CAPSULE_INSTANCING,
+	CYLINDER_INSTANCING,
+};

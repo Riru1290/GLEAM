@@ -1,0 +1,12 @@
+{
+	"SlenderManData":[
+		{
+			"ID":0,
+			"WalkSpeed":150,
+			"RunSpeed":500,
+			"Pos":[0.0,0.0,0.0],
+			"Rotate":[0.0,0.0,0.0],
+			"Scale":1
+		}
+	]
+}

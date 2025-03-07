@@ -1,0 +1,28 @@
+{
+	"MannequinData":[
+		{
+			"ID":0,
+			"WalkSpeed":650,
+			"RunSpeed":650,
+			"Pos":[-400.0,-85.0,1500.0],
+			"Rotate":[0.0,-90.0,0.0],
+			"Scale":1
+		},
+		{
+			"ID":1,
+			"WalkSpeed":650,
+			"RunSpeed":650,
+			"Pos":[400.0,-85.0,-950.0],
+			"Rotate":[0.0,90.0,0.0],
+			"Scale":1
+		},
+		{
+			"ID":2,
+			"WalkSpeed":650,
+			"RunSpeed":650,
+			"Pos":[2940.0,-85.0,1050.0],
+			"Rotate":[0.0,-90.0,0.0],
+			"Scale":1
+		}
+	]
+}
